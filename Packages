@@ -40,3 +40,17 @@ Priority: optional
 Author: i
 Name: GetDCCert
 
+Package: com.x.GetDCCert
+Version: 4.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/com.x.GetDCCert_4.0_iphoneos-arm.deb
+Size: 137562
+MD5sum: 1c65d5963a126adce94cf01d406516e7
+SHA1: 28de5a9f074eb8127696a0bd077959465b95e1ef
+SHA256: 03797cff23e3b24528cac4d19ada78b6480f636f1e2a61aa13860c81a10b8c5e
+Section: System
+Priority: optional
+Author: i
+Name: GetDCCert
+
