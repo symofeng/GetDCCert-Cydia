@@ -1,8 +1,7 @@
 Package: com.x.GetDCCert
 Version: 5.2
 Architecture: iphoneos-arm
-Maintainer: symofeng
-Depends: firmware (>= 5.0), mobilesubstrate | cydia substrate
+Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.x.GetDCCert_5.2_iphoneos-arm.deb
 Size: 212684
 MD5sum: f4dc77af6548a6e83de8c69368916576
@@ -10,7 +9,6 @@ SHA1: 4210fae3028ddea92ba12b1c68a3a3fd827877ca
 SHA256: c8efae852e5b301160adecdea9911d80496613f236f55f9931f369c8475416d2
 Section: System
 Priority: optional
-Description: DeviceCheck certificate export tool
 Author: i
 Name: GetDCCert
 
