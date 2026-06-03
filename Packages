@@ -1,4 +1,18 @@
 Package: com.x.GetDCCert
+Version: 5.6
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate | cydia
+Filename: debs/com.x.GetDCCert_5.6_iphoneos-arm.deb
+Size: 126164
+MD5sum: 0f7dad908885c2c691ae45829344f639
+SHA1: 722f0cbbd2255af0d6e26b26e1d5d54f2df9f6ca
+SHA256: 9491012287dc5dd802685ee572bbf84710e47df93c26749fe84f08eece6d5fd3
+Section: System
+Priority: optional
+Author: i
+Name: GetDCCert
+
+Package: com.x.GetDCCert
 Version: 5.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate | cydia
