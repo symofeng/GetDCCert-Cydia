@@ -3,10 +3,10 @@ Version: 5.6
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate | cydia
 Filename: debs/com.x.GetDCCert_5.6_iphoneos-arm.deb
-Size: 126164
-MD5sum: 0f7dad908885c2c691ae45829344f639
-SHA1: 722f0cbbd2255af0d6e26b26e1d5d54f2df9f6ca
-SHA256: 9491012287dc5dd802685ee572bbf84710e47df93c26749fe84f08eece6d5fd3
+Size: 126016
+MD5sum: 287fd3762789358669931ec1f2daee5f
+SHA1: 4a84e612e76e0435ad88f06e4de1217c3f62e30d
+SHA256: ccfe205b3fc91f9d7c9bf15426c2592324be3ebfa98b4ab9cf692bf36af61e14
 Section: System
 Priority: optional
 Author: i
