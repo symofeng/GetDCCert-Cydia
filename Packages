@@ -1,14 +1,15 @@
 Package: com.x.GetDCCert
-Version: 5.7
+Version: 5.8
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate | cydia
-Filename: debs/com.x.GetDCCert_5.7_iphoneos-arm.deb
-Size: 126176
-MD5sum: 03bea4077e3ffa4066674e0f91627c8c
-SHA1: 1d07751aba53e1d1148b42362e88f94c9bc30d55
-SHA256: 5c2058083c259292f6d95d0719b065b92e39440e1545968fc6bb060e316cf8fd
+Filename: debs/com.x.GetDCCert_5.8_iphoneos-arm.deb
+Size: 163812
+MD5sum: d973955aeabba00d29b58520d3fb28e5
+SHA1: 788d57290d6d6e75f4260317f38c0ddc778d32c8
+SHA256: 6ba154bf1e38e13b099aa94c41988eb7411578f5f02b673cf39d6c7af7bcad35
 Section: System
 Priority: optional
 Author: i
 Name: GetDCCert
+
 
